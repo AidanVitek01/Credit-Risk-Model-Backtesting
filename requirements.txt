@@ -1,1 +1,8 @@
 # For Dependencies
+Key Libraries:
+1. pandas
+2. numpy
+3. scikit-learn
+4. jupyter
+5. matplotlib
+6. seaborn
